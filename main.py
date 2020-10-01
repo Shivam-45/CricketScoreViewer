@@ -54,7 +54,7 @@ team2_score.grid(row=2, column=1, padx=5)
 result.grid(row=3, columnspan=2, pady=5)
 refresh.grid(row=4, columnspan=2)
 
-web = Label(root, text='Data Collected from Cricbuzz', font='ariel 8')
+web = Label(root, text='Data is Collected from Cricbuzz', font='ariel 8')
 web.grid(row=5, columnspan=2, pady=0)
 
 root.mainloop()
